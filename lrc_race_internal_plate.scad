@@ -1,5 +1,5 @@
 /**
- * lt210 fpv camera mount
+ * lrc race X internal plate
  */
  
 use <dronePlates.scad>;
